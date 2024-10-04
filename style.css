@@ -1,0 +1,60 @@
+body {
+  font: normal 20px Arial;
+  text-align: center;
+  background: gray;
+  color: white;
+}
+
+section {
+  display: block;
+  background: black;
+  width: 350px;
+  height: 470px;
+  border-radius: 10px;
+  margin: auto;
+}
+
+input#display {
+  font-size: 30px;
+  color: white;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 250px;
+  height: 40px;
+  border-radius: 6px;
+}
+
+.Teclas button {
+  border-radius: 100px;
+  width: 70px;
+  height: 70px;
+  margin: 5px;
+  cursor: pointer;
+  background: DarkSlateGray;
+}
+
+.Teclas {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 15px;
+}
+
+#operador {
+  background: orange;
+  font-size: 30px;
+}
+
+#primeiras {
+  background: DimGrey;
+}
+
+button {
+  color: white;
+  font-size: 20px;
+}
+
+#footer {
+  color: white;
+  margin: 20px;
+}
