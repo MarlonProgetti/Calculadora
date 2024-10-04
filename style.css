@@ -23,6 +23,7 @@ input#display {
   width: 250px;
   height: 40px;
   border-radius: 6px;
+  border-color: white;
 }
 
 .Teclas button {
@@ -32,6 +33,7 @@ input#display {
   margin: 5px;
   cursor: pointer;
   background: DarkSlateGray;
+  border-color: white;
 }
 
 .Teclas {
